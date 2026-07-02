@@ -14,7 +14,7 @@
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-4B8BBE?style=flat-square)
 ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-Applied-F7931E?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Maintained-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/ShadyNights/Email-Phishing-Detection-NLP?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/ShadyNights/Email-Phishing-Detection-NLP?style=flat-square)
